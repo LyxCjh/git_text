@@ -8,5 +8,7 @@ public class git_demo01 {
         System.out.println("hello git===>hot-fix!!!");
         System.out.println("==============");
         System.out.println("master git!!!");
+        System.out.println("==============");
+        System.out.println("hot-fix test!!!");
     }
 }
