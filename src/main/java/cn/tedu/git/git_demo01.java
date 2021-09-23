@@ -12,5 +12,7 @@ public class git_demo01 {
         System.out.println("hot-fix test!!!");
         System.out.println("==============");
         System.out.println("push test!!!");
+        System.out.println("==============");
+        System.out.println("pull test!!!");
     }
 }
