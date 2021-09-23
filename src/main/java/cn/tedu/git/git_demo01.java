@@ -10,5 +10,7 @@ public class git_demo01 {
         System.out.println("master git!!!");
         System.out.println("==============");
         System.out.println("hot-fix test!!!");
+        System.out.println("==============");
+        System.out.println("push test!!!");
     }
 }
